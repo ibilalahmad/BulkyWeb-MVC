@@ -1,0 +1,1 @@
+Developed an e-commerce application named *BulkyWeb* focused on book sales, using ASP.NET Core MVC with Entity Framework Core. This project was part of a personal training initiative and was based on a Udemy course.
