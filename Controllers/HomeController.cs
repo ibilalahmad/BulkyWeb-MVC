@@ -13,7 +13,10 @@ namespace BulkyWeb.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index() => View();
+        public IActionResult Index()
+        {
+            return View();
+        }
 
         public IActionResult Privacy() => View();
 
